@@ -1,5 +1,5 @@
 # Virtual environments
-myenv/
+pyt101/
 venv/
 .env/
 
@@ -23,3 +23,5 @@ Thumbs.db
 
 # Secrets
 .env
+
+
